@@ -167,11 +167,11 @@ You can use formats that match your needs through properties found in the `Money
 
 | Method                    | Parameter         | Descriptions |
 | ------------------------- | ----------------- | ------------ |
-| `isLowerThan`             | `amount`          | Check current instance-amount is lower than [amount] or not.  |
-| `isGreaterThan`           | `amount`          | Check current instance-amount is greater than [amount] or not. |
-| `isEqual`                 | `amount`          | Check current instance amount is equal than [amount] or not. |
-| `isEqualOrLowerThan`      | `amount`          | Check current instance amount is equal or lower than [amount] or not. |
-| `isEqualOrGreaterThan`    | `amount`          | Check current instance amount is equal or greater than [amount] or not. |
+| `isLowerThan`             | `amount`          | Check if current instance-amount is lower than [amount] or not.  |
+| `isGreaterThan`           | `amount`          | Check if current instance-amount is greater than [amount] or not. |
+| `isEqual`                 | `amount`          | Check if current instance amount is equal than [amount] or not. |
+| `isEqualOrLowerThan`      | `amount`          | Check if current instance amount is equal or lower than [amount] or not. |
+| `isEqualOrGreaterThan`    | `amount`          | Check if current instance amount is equal or greater than [amount] or not. |
 
 Example of using a comparator:
 
